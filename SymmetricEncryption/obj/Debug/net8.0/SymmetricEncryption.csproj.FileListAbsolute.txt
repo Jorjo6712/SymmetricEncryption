@@ -1,0 +1,14 @@
+/home/yord0050/Github/SymmetricEncryption/SymmetricEncryption/bin/Debug/net8.0/SymmetricEncryption
+/home/yord0050/Github/SymmetricEncryption/SymmetricEncryption/bin/Debug/net8.0/SymmetricEncryption.deps.json
+/home/yord0050/Github/SymmetricEncryption/SymmetricEncryption/bin/Debug/net8.0/SymmetricEncryption.runtimeconfig.json
+/home/yord0050/Github/SymmetricEncryption/SymmetricEncryption/bin/Debug/net8.0/SymmetricEncryption.dll
+/home/yord0050/Github/SymmetricEncryption/SymmetricEncryption/bin/Debug/net8.0/SymmetricEncryption.pdb
+/home/yord0050/Github/SymmetricEncryption/SymmetricEncryption/obj/Debug/net8.0/SymmetricEncryption.GeneratedMSBuildEditorConfig.editorconfig
+/home/yord0050/Github/SymmetricEncryption/SymmetricEncryption/obj/Debug/net8.0/SymmetricEncryption.AssemblyInfoInputs.cache
+/home/yord0050/Github/SymmetricEncryption/SymmetricEncryption/obj/Debug/net8.0/SymmetricEncryption.AssemblyInfo.cs
+/home/yord0050/Github/SymmetricEncryption/SymmetricEncryption/obj/Debug/net8.0/SymmetricEncryption.csproj.CoreCompileInputs.cache
+/home/yord0050/Github/SymmetricEncryption/SymmetricEncryption/obj/Debug/net8.0/SymmetricEncryption.dll
+/home/yord0050/Github/SymmetricEncryption/SymmetricEncryption/obj/Debug/net8.0/refint/SymmetricEncryption.dll
+/home/yord0050/Github/SymmetricEncryption/SymmetricEncryption/obj/Debug/net8.0/SymmetricEncryption.pdb
+/home/yord0050/Github/SymmetricEncryption/SymmetricEncryption/obj/Debug/net8.0/SymmetricEncryption.genruntimeconfig.cache
+/home/yord0050/Github/SymmetricEncryption/SymmetricEncryption/obj/Debug/net8.0/ref/SymmetricEncryption.dll

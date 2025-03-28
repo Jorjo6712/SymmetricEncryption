@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CqOm63MdEFs=",
+  "success": true,
+  "projectFilePath": "/home/yord0050/Github/SymmetricEncryption/SymmetricEncryption/SymmetricEncryption.csproj",
+  "expectedPackageFiles": [
+    "/home/yord0050/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.11/microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
